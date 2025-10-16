@@ -1,6 +1,6 @@
 /**/
-body { background-color: skyblue;
-} 
+    body { background-color: skyblue;
+    } 
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
@@ -43,6 +43,7 @@ body { background-color: skyblue;
     }
     
     #btnA {
+        color: blue;
         font-size: 20px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
     }
